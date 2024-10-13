@@ -87,51 +87,53 @@
 </div>
 
 <!-- Skills Section -->
-<h2 align="center">💡 Skills</h2>
-<div align="center" style="max-width: 800px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-  <p style="font-family: Arial, sans-serif; line-height: 1.6;">
-    <strong style="color: #333;">Languages:</strong> 
-    <span style="color: #007acc; transition: color 0.3s;">C/C++, Java, Python, JavaScript, TypeScript, SQL</span>
-    <br>
-    <strong style="color: #333;">Web Development:</strong> 
-    <span style="color: #007acc; transition: color 0.3s;">HTML, CSS, React.js, Node.js, Express.js, MERN Stack</span>
-    <br>
-    <strong style="color: #333;">Machine Learning:</strong> 
-    <span style="color: #007acc; transition: color 0.3s;">Scikit-learn, Keras, TensorFlow, OpenCV, NumPy</span>
-    <br>
-    <strong style="color: #333;">Blockchain Technologies:</strong> 
-    <span style="color: #007acc; transition: color 0.3s;">Solidity, Ethereum, Web3.js, IPFS, Smart Contracts</span>
-    <br>
-    <strong style="color: #333;">Technologies:</strong> 
-    <span style="color: #007acc; transition: color 0.3s;">AWS (EC2, S3, Lambda, etc.), MongoDB, Docker, Kubernetes, Spring, Kafka</span>
-    <br>
-    <strong style="color: #333;">Tools:</strong> 
-    <span style="color: #007acc; transition: color 0.3s;">Git, Docker, Splunk, Jenkins, CI/CD Pipelines, VS Code</span>
-  </p>
-</div>
+## 💡 Skills
 
-<style>
-  /* Hover effect for skill spans */
-  span {
-    cursor: pointer;
-  }
+### Languages:
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-007ACC?style=flat&logo=sql&logoColor=white)
 
-  span:hover {
-    color: #005f99; /* Darker shade on hover */
-  }
+### Web Development:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=flat&logo=react&logoColor=white)
 
-  /* Responsive design */
-  @media (max-width: 600px) {
-    h2 {
-      font-size: 1.5em;
-    }
-    
-    div {
-      padding: 15px;
-      max-width: 100%;
-    }
-  }
-</style>
+### Machine Learning:
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+### Blockchain Technologies:
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-8CC84B?style=flat&logo=ipfs&logoColor=white)
+
+### Technologies:
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+
+### Dev Side Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=flat&logo=ci%2Fcd)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
+
 
 <!-- Social Links -->
 <h2 align="center">🌐 Let's Connect!</h2>
