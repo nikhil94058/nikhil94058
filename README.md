@@ -1,8 +1,23 @@
-<p align="center"><img src="animation.gif" width="35%"></p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Nikhil%20Kumar%20Das&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5"> </div>
-<!-- Introduction Section --> <h2 align="center">👋 Hi, I'm Nikhil Kumar Das</h2> <p align="center"> A Full-Stack Developer, blockchain enthusiast, and Machine Learning practitioner. Passionate about building scalable web applications and exploring decentralized technologies. </p> <p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
+<p align="center"><img src="animation.gif" width="35%"></p> 
+<!-- Image Section on Top -->
+<div align="center">
+  <img src="./gitimage.png" alt="Your Image Description" width="100%">
+</div>
+<div align="center"> 
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Nikhil%20Kumar%20Das&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5"> 
+</div>
+
+<!-- Introduction Section -->
+<h2 align="center">👋 Hi, I'm Nikhil Kumar Das</h2>
+<p align="center"> 
+    A Full-Stack Developer, blockchain enthusiast, and Machine Learning practitioner. Passionate about building scalable web applications and exploring decentralized technologies.
+</p> 
+<p align="center"> 
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+</p>
+
 <!-- Coding Profiles -->
 <h2 align="center">📈 Coding Profiles</h2>
-
 <p align="center">
   <!-- Codeforces Stats -->
   <a href="https://codeforces.com/profile/NikhilKumar_11">
@@ -23,21 +38,24 @@
   </a>
 </p>
 
+<!-- Work Experience Section -->
+<h2 align="center">💼 Work Experience</h2>
+<p align="center">
+    Full-Stack Developer Intern at Platypus Box (June 2024 - Present)<br>
+    Building a scalable eCommerce platform with:
+    <ul>
+        <li>Frontend: React.js, Redux, Material-UI</li>
+        <li>Backend: Node.js, Express.js, MongoDB</li>
+        <li>Messaging: Kafka for microservices communication</li>
+        <li>Authentication: JWT and OAuth2</li>
+        <li>Payment Gateway: Stripe API</li>
+        <li>Optimization: Lazy loading, Redis caching</li>
+        <li>Deployment: AWS using CI/CD pipelines with GitHub Actions</li>
+    </ul>
+</p>
 
-<!-- Work Experience Section --> <h2 align="center">💼 Work Experience</h2>
-Full-Stack Developer Intern at Platypus Box
-(June 2024 - Present)
-Building a scalable eCommerce platform with:
-Frontend: React.js, Redux, Material-UI
-Backend: Node.js, Express.js, MongoDB
-Messaging: Kafka for microservices communication
-Authentication: JWT and OAuth2
-Payment Gateway: Stripe API
-Optimization: Lazy loading, Redis caching
-Deployment: AWS using CI/CD pipelines with GitHub Actions
 <!-- Projects Section -->
 <h2 align="center">📚 Projects</h2>
-
 <div align="center">
 
   <div style="margin: 20px;">
@@ -70,7 +88,6 @@ Deployment: AWS using CI/CD pipelines with GitHub Actions
 
 <!-- Skills Section -->
 <h2 align="center">💡 Skills</h2>
-
 <div align="center" style="max-width: 800px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
   <p style="font-family: Arial, sans-serif; line-height: 1.6;">
     <strong style="color: #333;">Languages:</strong> 
@@ -116,5 +133,23 @@ Deployment: AWS using CI/CD pipelines with GitHub Actions
   }
 </style>
 
+<!-- Social Links -->
+<h2 align="center">🌐 Let's Connect!</h2>
+<p align="center"> 
+    <a href="https://github.com/nikhil94058">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a> 
+    <a href="https://www.linkedin.com/in/nikhil-kumar-das-826582250/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a> 
+    <a href="https://leetcode.com/nikhil94058/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+    </a> 
+    <a href="https://codeforces.com/profile/nikhil94058">
+        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+    </a> 
+</p> 
 
-<!-- Social Links --> <h2 align="center">🌐 Let's Connect!</h2> <p align="center"> <a href="https://github.com/nikhil94058"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/nikhil-kumar-das-826582250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://leetcode.com/nikhil94058/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> <a href="https://codeforces.com/profile/nikhil94058"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer"> </p>
+<p align="center"> 
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer"> 
+</p>
