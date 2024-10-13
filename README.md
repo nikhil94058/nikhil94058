@@ -71,26 +71,50 @@ Deployment: AWS using CI/CD pipelines with GitHub Actions
 <!-- Skills Section -->
 <h2 align="center">💡 Skills</h2>
 
-<div align="center" style="max-width: 800px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #f9f9f9;">
-  <p>
-    <strong>Languages:</strong> 
-    <span style="color: #007acc;">C/C++, Java, Python, JavaScript, TypeScript, SQL</span>
+<div align="center" style="max-width: 800px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+  <p style="font-family: Arial, sans-serif; line-height: 1.6;">
+    <strong style="color: #333;">Languages:</strong> 
+    <span style="color: #007acc; transition: color 0.3s;">C/C++, Java, Python, JavaScript, TypeScript, SQL</span>
     <br>
-    <strong>Web Development:</strong> 
-    <span style="color: #007acc;">HTML, CSS, React.js, Node.js, Express.js, MERN Stack</span>
+    <strong style="color: #333;">Web Development:</strong> 
+    <span style="color: #007acc; transition: color 0.3s;">HTML, CSS, React.js, Node.js, Express.js, MERN Stack</span>
     <br>
-    <strong>Machine Learning:</strong> 
-    <span style="color: #007acc;">Scikit-learn, Keras, TensorFlow, OpenCV, NumPy</span>
+    <strong style="color: #333;">Machine Learning:</strong> 
+    <span style="color: #007acc; transition: color 0.3s;">Scikit-learn, Keras, TensorFlow, OpenCV, NumPy</span>
     <br>
-    <strong>Blockchain Technologies:</strong> 
-    <span style="color: #007acc;">Solidity, Ethereum, Web3.js, IPFS, Smart Contracts</span>
+    <strong style="color: #333;">Blockchain Technologies:</strong> 
+    <span style="color: #007acc; transition: color 0.3s;">Solidity, Ethereum, Web3.js, IPFS, Smart Contracts</span>
     <br>
-    <strong>Technologies:</strong> 
-    <span style="color: #007acc;">AWS (EC2, S3, Lambda, etc.), MongoDB, Docker, Kubernetes, Spring, Kafka</span>
+    <strong style="color: #333;">Technologies:</strong> 
+    <span style="color: #007acc; transition: color 0.3s;">AWS (EC2, S3, Lambda, etc.), MongoDB, Docker, Kubernetes, Spring, Kafka</span>
     <br>
-    <strong>Tools:</strong> 
-    <span style="color: #007acc;">Git, Docker, Splunk, Jenkins, CI/CD Pipelines, VS Code</span>
+    <strong style="color: #333;">Tools:</strong> 
+    <span style="color: #007acc; transition: color 0.3s;">Git, Docker, Splunk, Jenkins, CI/CD Pipelines, VS Code</span>
   </p>
 </div>
+
+<style>
+  /* Hover effect for skill spans */
+  span {
+    cursor: pointer;
+  }
+
+  span:hover {
+    color: #005f99; /* Darker shade on hover */
+  }
+
+  /* Responsive design */
+  @media (max-width: 600px) {
+    h2 {
+      font-size: 1.5em;
+    }
+    
+    div {
+      padding: 15px;
+      max-width: 100%;
+    }
+  }
+</style>
+
 
 <!-- Social Links --> <h2 align="center">🌐 Let's Connect!</h2> <p align="center"> <a href="https://github.com/nikhil94058"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/nikhil-kumar-das-826582250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://leetcode.com/nikhil94058/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> <a href="https://codeforces.com/profile/nikhil94058"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer"> </p>
