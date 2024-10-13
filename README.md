@@ -137,6 +137,7 @@
 
 <!-- Social Links -->
 <h2 align="center">🌐 Let's Connect!</h2>
+
 <p align="center"> 
     <a href="https://github.com/nikhil94058">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -150,7 +151,13 @@
     <a href="https://codeforces.com/profile/nikhil94058">
         <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
     </a> 
-</p> 
+</p>
+
+<h3 align="center">📧 Contact Info</h3>
+<p align="center">
+    <strong>Email:</strong> <a href="mailto:nikhild.ug22.cs@nitp.ac.in">nikhild.ug22.cs@nitp.ac.in</a> <br>
+    <strong>Phone:</strong> +91 9835904699
+</p>
 
 <p align="center"> 
     <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer"> 
