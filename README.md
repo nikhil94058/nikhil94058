@@ -35,23 +35,62 @@ Authentication: JWT and OAuth2
 Payment Gateway: Stripe API
 Optimization: Lazy loading, Redis caching
 Deployment: AWS using CI/CD pipelines with GitHub Actions
-<!-- Projects Section --> <h2 align="center">📚 Projects</h2>
-LandSol
-A decentralized application for land management on Ethereum, utilizing blockchain to automate land registration and ownership transfer.
+<!-- Projects Section -->
+<h2 align="center">📚 Projects</h2>
 
-Tech: Solidity, React.js, Web3.js, IPFS (Pinata), Polygon Layer 2
-Gender & Age Detection
-A real-time gender and age classification system using deep learning models with over 88% accuracy for gender detection.
+<div align="center">
 
-Tech: Keras, TensorFlow, OpenCV, CNN models (VGG-16, ResNet)
-<!-- Skills Section --> <h2 align="center">💡 Skills</h2>
-Languages: C/C++, Java, Python, JavaScript, TypeScript, SQL
-Technologies: AWS (EC2, S3, Lambda, etc.), MongoDB, React.js, Docker, Kubernetes, Spring, Kafka
-Tools: Git, Docker, Splunk, Kubernetes, Jenkins, CI/CD Pipelines
-<!-- Achievements Section --> <h2 align="center">🏆 Achievements</h2>
-Rank 3 in 4th Semester, CSE (NIT Patna)
-Specialist on Codeforces | Rating: 1495
-Knight on LeetCode | 500+ problems solved
-Top 100 in GDSC Solution Challenge
-Global Rank 66 in Codechef Starters 140
+  <div style="margin: 20px;">
+    <h3>LandSol</h3>
+    <p>A decentralized application for land management on Ethereum, utilizing blockchain to automate land registration and ownership transfer.</p>
+    <p>
+      <strong>Tech:</strong> 
+      <img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity Badge"/>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+      <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3 Badge"/>
+      <img src="https://img.shields.io/badge/IPFS-8CC84B?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS Badge"/>
+      <img src="https://img.shields.io/badge/Polygon-8C2DFF?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon Badge"/>
+    </p>
+    <a href="https://github.com/nikhil94058/Landsol" target="_blank">🔗 GitHub Repository</a>
+  </div>
+
+  <div style="margin: 20px;">
+    <h3>Gender & Age Detection</h3>
+    <p>A real-time gender and age classification system using deep learning models with over 88% accuracy for gender detection.</p>
+    <p>
+      <strong>Tech:</strong>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/>
+    </p>
+    <a href="https://github.com/yourusername/Gender-Age-Detection" target="_blank">🔗 GitHub Repository</a>
+  </div>
+
+</div>
+
+<!-- Skills Section -->
+<h2 align="center">💡 Skills</h2>
+
+<div align="center" style="max-width: 800px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #f9f9f9;">
+  <p>
+    <strong>Languages:</strong> 
+    <span style="color: #007acc;">C/C++, Java, Python, JavaScript, TypeScript, SQL</span>
+    <br>
+    <strong>Web Development:</strong> 
+    <span style="color: #007acc;">HTML, CSS, React.js, Node.js, Express.js, MERN Stack</span>
+    <br>
+    <strong>Machine Learning:</strong> 
+    <span style="color: #007acc;">Scikit-learn, Keras, TensorFlow, OpenCV, NumPy</span>
+    <br>
+    <strong>Blockchain Technologies:</strong> 
+    <span style="color: #007acc;">Solidity, Ethereum, Web3.js, IPFS, Smart Contracts</span>
+    <br>
+    <strong>Technologies:</strong> 
+    <span style="color: #007acc;">AWS (EC2, S3, Lambda, etc.), MongoDB, Docker, Kubernetes, Spring, Kafka</span>
+    <br>
+    <strong>Tools:</strong> 
+    <span style="color: #007acc;">Git, Docker, Splunk, Jenkins, CI/CD Pipelines, VS Code</span>
+  </p>
+</div>
+
 <!-- Social Links --> <h2 align="center">🌐 Let's Connect!</h2> <p align="center"> <a href="https://github.com/nikhil94058"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/nikhil-kumar-das-826582250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://leetcode.com/nikhil94058/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> <a href="https://codeforces.com/profile/nikhil94058"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer"> </p>
