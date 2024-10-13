@@ -1,6 +1,25 @@
 <p align="center"><img src="animation.gif" width="35%"></p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Nikhil%20Kumar%20Das&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5"> </div>
 <!-- Introduction Section --> <h2 align="center">👋 Hi, I'm Nikhil Kumar Das</h2> <p align="center"> A Full-Stack Developer, blockchain enthusiast, and Machine Learning practitioner. Passionate about building scalable web applications and exploring decentralized technologies. </p> <p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
-<!-- Coding Profiles --> <h2 align="center">📈 Coding Profiles</h2> <p align="center"> <a href="https://codeforces.com/profile/nikhil94058"> <img height="250" src="https://codeforces-readme-stats.vercel.app/api/card?username=nikhil94058&theme=github_dark&force_username=true&border_color=404040" alt="Nikhil's Codeforces Stats"> </a> <a href="https://leetcode.com/nikhil94058/"> <img height="250" src="https://leetcard.jacoblin.cool/nikhil94058?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Nikhil's Leetcode Stats"> </a> </p>
+<!-- Coding Profiles -->
+<h2 align="center">📈 Coding Profiles</h2>
+
+<p align="center">
+  <!-- Codeforces Stats -->
+  <a href="https://codeforces.com/profile/NikhilKumar_11">
+    <img height="250" src="https://codeforces-readme-stats.vercel.app/api/card?username=NikhilKumar_11&theme=github_dark&force_username=true&border_color=404040" alt="Nikhil's Codeforces Stats">
+  </a>
+
+  <!-- Leetcode Stats -->
+  <a href="https://leetcode.com/kumarnikhil94058/">
+    <img height="250" src="https://leetcard.jacoblin.cool/nikhil94058?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Nikhil's Leetcode Stats">
+  </a>
+</p>
+
+<!-- Additional Coding Profiles -->
+<p align="center">
+  <a href="https://www.codechef.com/users/kumarnikhil940">CodeChef</a>
+</p>
+
 <!-- Work Experience Section --> <h2 align="center">💼 Work Experience</h2>
 Full-Stack Developer Intern at Platypus Box
 (June 2024 - Present)
