@@ -11,14 +11,18 @@
 
   <!-- Leetcode Stats -->
   <a href="https://leetcode.com/kumarnikhil94058/">
-    <img height="250" src="https://leetcard.jacoblin.cool/nikhil94058?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Nikhil's Leetcode Stats">
+    <img height="250" src="https://leetcard.jacoblin.cool/kumarnikhil94058?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Nikhil's Leetcode Stats">
   </a>
 </p>
 
 <!-- Additional Coding Profiles -->
 <p align="center">
-  <a href="https://www.codechef.com/users/kumarnikhil940">CodeChef</a>
+  <!-- CodeChef Profile -->
+  <a href="https://www.codechef.com/users/kumarnikhil940">
+    <img height="150" src="https://cp-logo.vercel.app/codechef/kumarnikhil940" alt="Nikhil's CodeChef Stats">
+  </a>
 </p>
+
 
 <!-- Work Experience Section --> <h2 align="center">💼 Work Experience</h2>
 Full-Stack Developer Intern at Platypus Box
