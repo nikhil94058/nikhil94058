@@ -33,8 +33,8 @@
 <!-- Additional Coding Profiles -->
 <p align="center">
   <!-- CodeChef Profile -->
-  <a href="https://www.codechef.com/users/kumarnikhil940">
-    <img height="150" src="https://cp-logo.vercel.app/codechef/kumarnikhil940" alt="Nikhil's CodeChef Stats">
+  <a href="https://www.codechef.com/users/nikhildug22cs">
+    <img height="150" src="https://www.codechef.com/users/nikhildug22cs" alt="Nikhil's CodeChef Stats">
   </a>
 </p>
 
