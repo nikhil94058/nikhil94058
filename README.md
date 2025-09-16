@@ -31,12 +31,14 @@
 </p>
 
 <!-- Additional Coding Profiles -->
+<!-- Additional Coding Profiles -->
 <p align="center">
   <!-- CodeChef Profile -->
   <a href="https://www.codechef.com/users/nikhildug22cs">
-    <img height="150" src="https://www.codechef.com/users/nikhildug22cs" alt="Nikhil's CodeChef Stats">
+    <img src="https://img.shields.io/badge/CodeChef-5%E2%AD%90-764ABC?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 5 Star"/>
   </a>
 </p>
+
 
 <!-- Work Experience Section -->
 <h2 align="center">💼 Work Experience</h2>
@@ -87,6 +89,10 @@
 </div>
 
 <!-- Skills Section -->
+
+
+
+
 ## 💡 Skills
 
 ### Languages:
@@ -135,8 +141,32 @@
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
 
 
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil94058&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil94058&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil94058&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhil94058&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+
+
 <!-- Social Links -->
 <h2 align="center">🌐 Let's Connect!</h2>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhil94058&label=Profile%20Views&color=6b3eff&style=flat" alt="Profile Views"/>
+</p>
+
 
 <p align="center"> 
     <a href="https://github.com/nikhil94058">
